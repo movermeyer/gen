@@ -3,11 +3,11 @@ Gen - A file generator
 
 The gen program generates files from a YAML definition.
 
-.. image:: https://pypip.in/v/gen/badge.png
+.. image:: https://img.shields.io/pypi/v/gen.svg
     :target: https://crate.io/packages/gen/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/gen/badge.png
+.. image:: https://img.shields.io/pypi/dm/gen.svg
     :target: https://crate.io/packages/gen/
     :alt: Number of PyPI downloads
 
